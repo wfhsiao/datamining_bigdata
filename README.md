@@ -1,5 +1,4 @@
-# datamining_bigdata
-# data mining and big data analytics
+# datamining_bigdata (data mining and big data analytics)
 <pre>
 from sympy import *
 x=Symbol('x')
