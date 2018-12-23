@@ -11,3 +11,4 @@ from scipy.special import binom
 </pre>
 
 # Pandas Introduction
+10 minutes to Pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
