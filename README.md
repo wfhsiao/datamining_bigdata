@@ -9,3 +9,5 @@ factor(expand((x+y)**3))
 simplify(2*x - y - x)
 from scipy.special import binom
 </pre>
+
+# Pandas Introduction
