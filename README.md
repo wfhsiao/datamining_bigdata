@@ -30,6 +30,7 @@ svm.SVC(kernel='rbf', C=8, gamma=1)<br />
 ['BBF107011', 'BBF107008', 'CBF104040', 'BBF107016', 'BBF107007', 'BBF107013', 'BBF107009', 'BBF107006']<br />
 
 # 課堂kmeans例子
+2018/12/27 課堂上使用的<a href='kmeans-example.ipynb'>kmeans例子</a><br /><br />
 
 # datamining_bigdata (data mining and big data analytics)
 <pre>
