@@ -1,4 +1,4 @@
-# 期末作業與報名
+# 期末作業與報告
 作業題目：<br />
 依此影片重做以下影片中Jupyter Notebook的內容.<br />
 https://www.youtube.com/watch?v=0Lt9w-BxKFQ&feature=youtu.be&t=1 <br />
@@ -25,7 +25,7 @@ svm.SVC(kernel='rbf', C=8, gamma=1)<br />
 因此測試數據的準確率最高. 而且也成功地將上述兩筆預測為1.<br />
 <br />
 
-###報告次序：<br />
+##報告次序：<br />
 由各位的座號之總和為亂數種子, 洗牌後的結果為:<br />
 ['BBF107011', 'BBF107008', 'CBF104040', 'BBF107016', 'BBF107007', 'BBF107013', 'BBF107009', 'BBF107006']<br />
 
