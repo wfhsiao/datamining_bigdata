@@ -26,7 +26,7 @@ svm.SVC(kernel='rbf', C=8, gamma=1)<br />
 <br />
 
 ##報告次序：<br />
-由各位的座號之總和為亂數種子, 洗牌後的結果為:<br />
+由各位的座號之總和為亂數種子, <a href='presentation_order.ipynb'>洗牌後</a>的結果為:<br />
 ['BBF107011', 'BBF107008', 'CBF104040', 'BBF107016', 'BBF107007', 'BBF107013', 'BBF107009', 'BBF107006']<br />
 
 # 課堂kmeans例子
