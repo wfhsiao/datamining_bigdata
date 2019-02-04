@@ -1,12 +1,12 @@
-* matplotlib set fontsize *
+* matplotlib set fontsize 
 <pre>plt.rcParams.update({'font.size': 22})</pre>
 
-* matplotlib set figsize *
+** matplotlib set figsize 
 <pre>width = 6
 height = 6
 plt.figure(figsize=(width, height))</pre>
 
-* matplotlib set legend loc *
+*** matplotlib set legend loc 
 <pre>plt.legend(loc='upper right', bbox_to_anchor=(1.5,1))</pre>
 <pre>
 labels=['東部','西部','南部','北部']
