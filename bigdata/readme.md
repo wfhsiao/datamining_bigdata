@@ -2,11 +2,14 @@
 <pre>plt.rcParams.update({'font.size': 22})</pre>
 
 * matplotlib set figsize 
-<pre>width = 6
-height = 6
-plt.figure(figsize=(width, height))</pre>
+<pre>
+plt.figure(figsize=(6, 6))
+# for dataframe.plot
+df.plot(kind='bar', fontsize=14, figsize=(8,8))
+plt.legend(loc='upper right', bbox_to_anchor=(1.3,1), fontsize=14)
+</pre>
 
-* matplotlib set legend loc 
+* matplotlib set legend loc, for fontsize see the above 
 <pre>plt.legend(loc='upper right', bbox_to_anchor=(1.5,1))</pre>
 <pre>
 labels=['東部','西部','南部','北部']
