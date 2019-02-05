@@ -1,4 +1,4 @@
-* update conda
+* update conda<br />
 `conda clean --all`<br />
 `conda update conda`<br />
 `conda update --all`<br />
