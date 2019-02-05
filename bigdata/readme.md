@@ -1,3 +1,8 @@
+* update conda
+`conda clean --all`<br />
+`conda update conda`<br />
+`conda update --all`<br />
+
 * matplotlib set fontsize 
 <pre>plt.rcParams.update({'font.size': 22})</pre>
 
