@@ -1,8 +1,12 @@
-# 期末作業與報告
-## 作業題目：<br />
+<h4>The reason why we subtracts the slope in gradient descent</h4>
+<img src='https://i.stack.imgur.com/Z563L.png' />
+ref: https://math.stackexchange.com/questions/192244/subtraction-of-slope-in-gradient-descent
+
+## 期末作業與報告
+### 作業題目：<br />
 依此影片重做以下影片中Jupyter Notebook的內容.<br />
 https://www.youtube.com/watch?v=0Lt9w-BxKFQ&feature=youtu.be&t=1 <br />
-### 但要做如下的修改：<br />
+#### 但要做如下的修改：<br />
 1. 將wine的quality的切割改成<br />
 bins=(2, 5.5, 10)<br />
 所以你執行<br />
