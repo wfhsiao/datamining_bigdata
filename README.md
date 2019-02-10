@@ -1,5 +1,5 @@
 <h4>The reason why we subtracts the slope in gradient descent</h4>
-<img src='https://i.stack.imgur.com/Z563L.png' />
+<img src='https://i.stack.imgur.com/Z563L.png' width='400'/>
 ref: https://math.stackexchange.com/questions/192244/subtraction-of-slope-in-gradient-descent
 
 ## 期末作業與報告
