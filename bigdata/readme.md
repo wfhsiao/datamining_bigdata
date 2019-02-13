@@ -1,5 +1,5 @@
-* filtering data of DataFrame
-* #note use .loc to set conditions and use | for or condition
+* filtering data of DataFrame<br />
+* #note use .loc to set conditions and use | for or condition<br />
 ndf=df.loc[df['word'].isin(res) | df['Category'].isin(['中高級'])]<br />
 print(ndf.shape)<br />
 ndf.head(3)<br />
