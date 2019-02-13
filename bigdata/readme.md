@@ -1,3 +1,9 @@
+* filtering data of DataFrame
+* #note use .loc to set conditions and use | for or condition
+ndf=df.loc[df['word'].isin(res) | df['Category'].isin(['中高級'])]<br />
+print(ndf.shape)<br />
+ndf.head(3)<br />
+<br />
 * update conda<br />
 `conda clean --all`<br />
 `conda update conda`<br />
